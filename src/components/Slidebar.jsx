@@ -58,7 +58,7 @@ const Slidebar = ({ children }) => {
   ];
   return (
     <div>
-      <div className=" flex justify-around sticky bg-sky-900 ">
+      <div className=" flex justify-around  bg-red-700">
         <div className=" flex gap-5 justify-start items-center py-4 ml-7 ">
           <div className="flex ">
             <h1 className="text-sky-200 text-2xl font-200">Blur</h1>
